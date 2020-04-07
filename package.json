@@ -1,0 +1,17 @@
+{
+  "name": "grvr-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sonks",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "discord.js": "^12.0.2",
+    "ffmpeg-static": "^4.0.1",
+    "opusscript": "0.0.7"
+  }
+}
